@@ -1,2 +1,2 @@
-# Exercices_11/11
-Bootstrap One Million Lines + Exercice vignerons SQL (sur draw.io)
+# Exercices_SQL
+Exercice vignerons SQL (sur draw.io)
