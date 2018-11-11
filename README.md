@@ -1,2 +1,2 @@
-# Exercices_SQL
+# Exercice_SQL
 Exercice vignerons SQL (sur draw.io)
